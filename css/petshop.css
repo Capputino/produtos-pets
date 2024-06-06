@@ -53,3 +53,25 @@ background-color:#bdff9c;
 .flex-conteiner .col{
     width:430px;
 }
+.btn-pata{
+    border: 1px solid #6DD432;
+
+}
+form{
+    width: 380px;
+}
+form input,
+form textarea{
+    width:100%;
+    border:1px solid #6DD432;
+    padding:10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+iframe{
+    width:100%;
+}
+.produto figure img{
+    vertical-align: middle;
+}
